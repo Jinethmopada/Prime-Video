@@ -1,0 +1,15 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+}
+.prime-img {
+  width: 100%;
+}
+
+.movies-head {
+  color: #ffffff;
+}
+
+.bottom-container {
+  background-color: #000000;
+}
